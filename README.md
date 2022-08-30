@@ -1,2 +1,1 @@
-My first readme
-I will be rich and famous
+README FILE HAS BEEN UPDATED
